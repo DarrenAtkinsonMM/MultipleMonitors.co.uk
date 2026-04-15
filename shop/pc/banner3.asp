@@ -2,7 +2,7 @@
 
 dabfoffH2 = "Black Friday Deal:"
 dabfoffH31 = "&nbsp;&nbsp;Free Memory (RAM) & SSD Upgrades On All PCs - <strong>Save Up To £160!</strong>"
-dabfoffH32 = "Upgrades Automatically Applied // See Computer Pages For Full Details // Offer Ends Nov. 30th"
+dabfoffH32 = "Upgrades Automatically Applied // See Computer Pages For Full Details // Offer Ends Nov 30th"
    
 'Ultra  
 if not InStr(pSku, "ULT1") = 0 Then
