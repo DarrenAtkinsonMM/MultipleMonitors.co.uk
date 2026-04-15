@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:productcart-kb.nsource.com)",
+      "Bash(find:*)",
+      "Bash(node --version:*)",
+      "Bash(node -e \":*)",
+      "Bash(npm search:*)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(node:*)",
+      "Bash(find c:PrivateSitesMultipleMonitors.co.uk -maxdepth 2 -type f \\\\\\(-name *.json -o -name *.config -o -name *.xml \\\\\\))"
+    ]
+  }
+}
